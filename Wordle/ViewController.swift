@@ -45,7 +45,7 @@ class ViewController: UIViewController,
     // CMD + click to learn more about what methods and properties you can use
     // Tip 2: You'll want to use and implement `resetBoardWithCurrentSettings` inside of BoardController.swift
     // in the function that you fire when the button is tapped
-  }
+  } 
   
   @objc private func didTapSettingsButton() {
     performSegue(withIdentifier: segueIdentifier, sender: nil)
