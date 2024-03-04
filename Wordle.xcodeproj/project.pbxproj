@@ -140,8 +140,8 @@
 		996B84C7299990AA00133037 /* WordleUITests */ = {
 			isa = PBXGroup;
 			children = (
-				996B84C8299990AA00133037 /* WordleUITests.swift */,
 				996B84CA299990AA00133037 /* WordleUITestsLaunchTests.swift */,
+				996B84C8299990AA00133037 /* WordleUITests.swift */,
 			);
 			path = WordleUITests;
 			sourceTree = "<group>";
